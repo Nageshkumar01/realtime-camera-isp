@@ -123,12 +123,12 @@ realtime-camera-isp/
 
 ## 🔄 Processing Pipeline
 
-```<img width="1408" height="768" alt="Processing" src="https://github.com/user-attachments/assets/f96ce0fb-a84d-493b-a9d4-2d6c71eb7a4e" />
+<img width="1408" height="768" alt="Processing" src="https://github.com/user-attachments/assets/f96ce0fb-a84d-493b-a9d4-2d6c71eb7a4e" />
 
 
-```
 
----
+
+
 
 ## 🎨 Bayer RGGB Pattern
 
