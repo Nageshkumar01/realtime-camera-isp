@@ -6,8 +6,6 @@ The project is built from scratch using **C++**, without OpenCV or other externa
 
 ## 📸 Project Demo
 
-> Add your screenshots here after uploading them to the repository.
-
 ### Camera ISP GUI
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1ca00e44-1bba-406f-ba54-6bcbe9d478eb" />
@@ -126,6 +124,8 @@ realtime-camera-isp/
 ## 🔄 Processing Pipeline
 
 ```text<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/db3ecc3b-92b7-473c-a568-0eef4aa524a4" />
+<img width="1408" height="768" alt="Processing" src="https://github.com/user-attachments/assets/f96ce0fb-a84d-493b-a9d4-2d6c71eb7a4e" />
+
 
 ```
 
